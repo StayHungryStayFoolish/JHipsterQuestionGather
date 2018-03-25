@@ -1,5 +1,3 @@
----
-
 #### JHipster 项目版本 【当前项目根路径运行  jhipster --version 】
 
 JHipster: [预填版本号]
@@ -32,3 +30,4 @@ JHipster: [预填版本号]
 
 ---
 
+**问题可能已经在 ISSUES 中解决过，请先查看 README.MD 文档，以便更快的帮你解决问题。**
