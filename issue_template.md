@@ -1,6 +1,8 @@
 ---
+
 #### JHipster 项目版本 【当前项目根路径运行  jhipster --version 】
-JHipster [预填版本号]
+
+JHipster: [预填版本号]
 
 开发系统: []
 
