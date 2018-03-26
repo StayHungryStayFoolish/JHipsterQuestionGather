@@ -30,6 +30,8 @@
 
 #### liquibase增加字段
 
+#### profile的使用方式
+
 ## 高级
 
 ### docker启动
@@ -37,3 +39,5 @@
 ### kafka
 
 ### websocket
+
+### cache缓存
