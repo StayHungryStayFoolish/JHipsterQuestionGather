@@ -2,9 +2,9 @@
 
 ### 确定版本
 
-  ➜  ~ jhipster --version
-  Using JHipster version installed globally
-  4.14.1
+    ➜  ~ jhipster --version
+    Using JHipster version installed globally
+    4.14.1
 
 ### 加速三步骤
 
