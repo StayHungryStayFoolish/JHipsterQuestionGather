@@ -55,7 +55,7 @@
 
 配置文件 application-dev.yml 添加以下内容
 
-bindings:
+    bindings:
                 messageChannel:
                     destination: greetings
                     content-type: application/json
