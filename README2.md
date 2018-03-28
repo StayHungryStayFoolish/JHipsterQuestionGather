@@ -40,6 +40,8 @@
 
 ### kafka
 
+* 程序启动报错
+
     Parameter 0 of constructor in com.sgcc.syn.messaging.ProducerResource required a bean of type 'com.sgcc.syn.messaging.ProducerChannel' that could not be found.
 
 在 MessagingConfiguration 类里
@@ -48,6 +50,17 @@
     public class MessagingConfiguration {
 
     }
+
+* 消息未订阅成功
+
+配置文件 application-dev.yml 添加以下内容
+
+bindings:
+                messageChannel:
+                    destination: greetings
+                    content-type: application/json
+                subscribableChannel:
+                    destination: greetings
     
 
 ### websocket
