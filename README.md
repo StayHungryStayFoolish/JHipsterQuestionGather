@@ -10,6 +10,18 @@
 
 ---
 
+### JHipster 在 Mac  上的环境变量配置及安装
+
+[JHipster 安装](https://stayhungrystayfoolish.github.io/JHipster-Environment/)
+
+### JHipster 技能图谱
+
+[涉及到的技术栈](https://stayhungrystayfoolish.github.io/JHipster-skills/)
+
+### 配置文件介绍
+
+[配置文件](https://stayhungrystayfoolish.github.io/JHipster-Configuration/)
+
 ### 个人博客
 
 **翻墙用户:** [Bonismo`s Blog](https://stayhungrystayfoolish.github.io/)
