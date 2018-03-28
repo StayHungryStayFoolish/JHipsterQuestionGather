@@ -38,6 +38,16 @@
 
 ### kafka
 
+    Parameter 0 of constructor in com.sgcc.syn.messaging.ProducerResource required a bean of type 'com.sgcc.syn.messaging.ProducerChannel' that could not be found.
+
+在 MessagingConfiguration 类里
+
+    @EnableBinding(value = {Source.class, ProducerChannel.class, ConsumerChannel.class})
+    public class MessagingConfiguration {
+
+    }
+    
+
 ### websocket
 
 ### cache缓存
