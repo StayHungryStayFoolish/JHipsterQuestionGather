@@ -44,6 +44,12 @@
 
 #### profile的使用方式
 
+### 授权
+
+[add ROLE_MANAGER](https://stackoverflow.com/questions/32436745/using-roles-in-jhipster)
+
+[Spring Data REST + Spring Security](https://github.com/spring-projects/spring-data-examples/tree/master/rest/security)
+
 ## 高级
 
 ### docker启动
