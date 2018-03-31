@@ -30,6 +30,8 @@
 
 ### 增量开发流程
 
+[database-updates-with-the-maven-liquibasediff-goal](http://www.jhipster.tech/development/#database-updates-with-the-maven-liquibasediff-goal)
+
 ### 数据库已经存在重新生成代码
 
 #### liquibase增加字段
