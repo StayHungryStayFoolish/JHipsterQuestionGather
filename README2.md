@@ -26,11 +26,17 @@
 
 ### 简单JPA生成代码
 
+#### 根据表 生成实体
+
+  jhipster entity <entityName> --[options]
+
 ### 目录命名规则
 
 ### 增量开发流程
 
 [database-updates-with-the-maven-liquibasediff-goal](http://www.jhipster.tech/development/#database-updates-with-the-maven-liquibasediff-goal)
+
+#### liquibase 三种工作方式
 
 ### 数据库已经存在重新生成代码
 
