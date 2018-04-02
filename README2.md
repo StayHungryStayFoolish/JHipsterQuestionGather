@@ -36,13 +36,13 @@
 
 [database-updates-with-the-maven-liquibasediff-goal](http://www.jhipster.tech/development/#database-updates-with-the-maven-liquibasediff-goal)
 
-#### liquibase 三种工作方式
+#### 数据库更新 三种工作方式
 
-mvn compile liquibase:diff
+#### 1、以entity sub-generator方式
 
-### 数据库已经存在重新生成代码
+#### 2、以liquibase:diff goal方式
 
-#### 1、liquibase手动编辑change log文件(修改字段...),命令更新数据库
+#### 3、以编辑change log文件(修改字段...)方式
 
 ##### 开发流程
 
