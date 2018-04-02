@@ -42,7 +42,7 @@ mvn compile liquibase:diff
 
 ### 数据库已经存在重新生成代码
 
-#### liquibase手动编辑change log文件(修改字段...),命令更新数据库
+#### 1、liquibase手动编辑change log文件(修改字段...),命令更新数据库
 
 ##### 开发流程
 
