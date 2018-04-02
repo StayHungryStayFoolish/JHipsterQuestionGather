@@ -44,8 +44,6 @@
 
 #### 3、以编辑change log文件(修改字段...)方式
 
-##### 开发流程
-
 * 修改JPA实体(添加字段、修改关系)
 
 * 新建 "change log"文件 如:20141006152300_added_price_to_product.xml
