@@ -38,13 +38,23 @@
 
 #### liquibase 三种工作方式
 
+mvn compile liquibase:diff
+
 ### 数据库已经存在重新生成代码
 
-#### liquibase增加字段
+#### liquibase手动编辑change log文件(修改字段...),命令更新数据库
+
+##### 开发流程
+
+* 修改JPA实体(添加字段、修改关系)
+
+* 新建 "change log"文件 如:20141006152300_added_price_to_product.xml
+
+* 将上一步文件放到 master.xml文件中，重启生效。
 
 #### profile的使用方式
 
-### 授权
+### 角色与授权
 
 [add ROLE_MANAGER](https://stackoverflow.com/questions/32436745/using-roles-in-jhipster)
 
