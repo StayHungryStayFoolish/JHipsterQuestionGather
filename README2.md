@@ -30,6 +30,12 @@
 
   jhipster entity <entityName> --[options]
 
+### 一个较为复杂的例子
+
+* 1、创建此 dsl 文件 [complex_jdl.jdl](https://github.com/jnuc093/jhipster-sample-app/blob/master/src/main/resources/dsl/complex_jdl.jdl)
+
+2、jhipster import-jdl  *.jh
+
 ### 目录命名规则
 
 ### 增量开发流程
