@@ -36,6 +36,8 @@
 
 * 2、jhipster import-jdl  complex_jdl.jh
 
+[jdl-studio](https://start.jhipster.tech/jdl-studio/)
+
 ### 目录命名规则
 
 ### 增量开发流程
