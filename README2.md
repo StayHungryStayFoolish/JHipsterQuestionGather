@@ -19,8 +19,8 @@
 #### pathmanjs 迅雷下载
 
     yarn start 过程中 会下载 phantomjs-2.1.1-macosx.zip包，该包体积较大，国内仅能从迅雷下载，然后拷贝到对应目录中
-    
-<img src="https://github.com/StayHungryStayFoolish/Images-Blog/blob/master/jhipster/1522214654527.jpg?raw=true" />    
+
+[参考图片](https://github.com/StayHungryStayFoolish/Images-Blog/blob/master/jhipster/1522214654527.jpg)
 
 ## 中级
 
