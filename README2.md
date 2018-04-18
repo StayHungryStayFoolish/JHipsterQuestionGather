@@ -103,3 +103,10 @@
 ### websocket
 
 ### cache缓存
+
+## 升级
+
+### 已有项目升级 生成器从从4.14.1升级到 4.14.3
+
+    * rm -rf nodemodule
+    * yarn install
