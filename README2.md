@@ -1,10 +1,15 @@
+[Getting Started with JHipster on OS X](https://dzone.com/articles/getting-started-jhipster-os-x)
+
 ## 初级
 
 ### 确定版本
 
+    ➜  ~ rm '/usr/local/bin/jhipster'
+    ➜  ~ brew link --overwrite jhipster
+Linking /usr/local/Cellar/jhipster/4.14.3... 1 symlinks created
     ➜  ~ jhipster --version
-    Using JHipster version installed globally
-    4.14.1
+Using JHipster version installed globally
+4.14.3
 
 ### 加速三步骤
 
