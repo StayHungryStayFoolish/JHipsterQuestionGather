@@ -118,3 +118,9 @@
     * yarn install
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
+
+### gateway 网关 eureka
+
+mac:
+
+  bootstrap.yml 文件中修改 eureka地址为 192.168.99.100
