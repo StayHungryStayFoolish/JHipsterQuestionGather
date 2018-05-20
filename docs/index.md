@@ -13,6 +13,13 @@
     Using JHipster version installed globally
     4.14.3
 
+#### 20180517升级到4.14.4版本
+
+    brew upgrade jhipster
+    jhipster --version
+    Using JHipster version installed globally
+    4.14.4
+
 ### 加速三步骤
 
 #### pom.xml
