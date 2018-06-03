@@ -13,12 +13,32 @@
     Using JHipster version installed globally
     4.14.3
 
-#### 20180517升级到4.14.4版本
+#### (一)升级到4.14.4版本
 
     brew upgrade jhipster
     jhipster --version
     Using JHipster version installed globally
-    4.14.4
+    4.14.4   
+
+#### (二)原有项目从4.14.3升级到4.14.4
+
+```
+rm -rf node_modules
+rm yarn.lock
+
+jhipster
+overrite package.json(选择覆盖此文件)
+根据提示选择性的覆盖原有文件 如 pom.xml等文件
+
+jhipster --version
+Using JHipster version installed locally in current project's node_modules
+4.14.4
+注意:此步骤是确定项目中的版本
+```
+
+  
+
+
 
 ### 加速三步骤
 
@@ -94,7 +114,7 @@
 
     @EnableBinding(value = {Source.class, ProducerChannel.class, ConsumerChannel.class})
     public class MessagingConfiguration {
-
+    
     }
 
 * 消息未订阅成功
@@ -107,7 +127,7 @@
                     content-type: application/json
                 subscribableChannel:
                     destination: greetings
-    
+
 
 ### websocket
 
