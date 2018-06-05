@@ -28,6 +28,7 @@ rm yarn.lock
 
 jhipster
 overrite package.json(选择覆盖此文件)
+overrite DatabaseConfiguration.java(选择覆盖此文件)
 根据提示选择性的覆盖原有文件 如 pom.xml等文件
 
 jhipster --version
