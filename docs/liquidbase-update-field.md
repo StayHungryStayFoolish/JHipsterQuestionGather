@@ -1,18 +1,18 @@
 ## 实体修改字段
 
 
-### 1
+### 1 修改字段为 bbb
 
-![Image of Yaktocat](img/liquidbase-1.png)
+![修改字段为 bbb](img/liquidbase-1.png)
 
 ### 2
 
 [jh操作50秒视频](https://asciinema.org/a/1iN4a4wTYQPEOE3m7zMIdG82p)
 
-### 3
+### 3 将上一步操作最后一行文件名加入master.xml中
 
-![Image of Yaktocat](img/liquidbase-2.png)
+![master.xml文件](img/liquidbase-2.png)
 
-### 4
+### 4 重启后台查看表字段已经修改
 
-![Image of Yaktocat](img/liquidbase-3.png)
+![表字段已经修改](img/liquidbase-3.png)
