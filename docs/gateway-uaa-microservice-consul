@@ -1,0 +1,11 @@
+### jhipster 构建微服务
+
+####工程项目
+
+* UAA
+* microservice1
+* gateway
+
+先看下要到达的效果从网关项目中查看UAA和microservice1
+
+![从网关项目中查看UAA和microservice1](img/gateway.png)
